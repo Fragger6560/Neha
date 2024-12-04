@@ -27,7 +27,7 @@ The possibilities of the DAP platform in the development and functioning of soci
 Report files were obtained from Open Data Vancouver and downloaded as Excel or CSV files: business licenses within the city that form a basis for further analysis in AWS.
 
 ### Figure 1
-Neha dataset from Portal screenshot:
+<img width="964" alt="Screenshot 2024-12-04 at 1 02 19 AM" src="https://github.com/user-attachments/assets/7a6d54e4-ebae-4530-b2b0-8cf1aca0f164">
 
 ---
 
