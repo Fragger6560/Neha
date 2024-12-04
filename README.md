@@ -39,6 +39,7 @@ Report files were obtained from Open Data Vancouver and downloaded as Excel or C
 This is a **Descriptive Analysis**. This analysis aims to leverage AWS services to examine various aspects of Vancouver's business license by analyzing relevant parameters such as the number of employees, expiration date, issued date, etc.
 
 ### Figure 2
+<img width="958" alt="Screenshot 2024-12-04 at 1 02 27 AM" src="https://github.com/user-attachments/assets/7e9ee57d-945e-452e-917a-5cd6c6e2a0df">
 A graphical representation of data in a column format by year on the X-axis (as Expired Date). The total number of licenses is on the Y-axis. This graph clearly indicates that all licenses selected have an Expired Date in one year only (probably 2024 according to the label).
 
 ---
