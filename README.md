@@ -50,7 +50,7 @@ Specifically, the Digital Application Platform (DAP) on AWS is the key for Vanco
 ---
 
 ### Data Analytic Platform Implementation
-
+<img width="1062" alt="Screenshot 2024-12-04 at 1 02 36 AM" src="https://github.com/user-attachments/assets/366235c7-3d4a-4032-a580-cc9516998af9">
 **Note:** Business requirement
 
 #### Data Storage Design
@@ -60,6 +60,7 @@ Data Storage Design on AWS is fundamental to ensuring that data is stored secure
 - **Raw:** Cleaned Data Storage from Glue Data Brew  
 - **Curated:** Analytical Data from AWS Glue  
 
+<img width="1064" alt="Screenshot 2024-12-04 at 1 02 46 AM" src="https://github.com/user-attachments/assets/bed9c419-6910-46a5-b91c-156de3ba1d02">
 **Figure 4:** Neha Data Storage Design in AWS
 
 ---
