@@ -69,17 +69,23 @@ Data Storage Design on AWS is fundamental to ensuring that data is stored secure
 After collecting data from the operational environment, it is transferred to the Data Analysis Environment (AWS).  
 **Figure 5**
 
+<img width="1065" alt="Screenshot 2024-12-04 at 1 02 56 AM" src="https://github.com/user-attachments/assets/84129636-58cd-475e-befd-04fe1eac06d6">
+
 ---
 
 #### Data Profiling
 AWS Glue Data Brew is specifically used for data preparation and transformation. It makes it easier for users to work through cleaning, transforming, and structuring datasets without code. This means the data is well-sorted, complete, credible, and prepared for analysis or presentation.  
 **Figure 6**
 
+<img width="1007" alt="Screenshot 2024-12-04 at 1 12 30 AM" src="https://github.com/user-attachments/assets/4da4f2f0-a55f-489c-8c73-dbbaef0a0d91">
+
 ---
 
 #### Data Cleaning
 AWS Glue Data Brew is used for data preparation and transformation. It helps in cleaning datasets by removing duplicates, fixing formatting problems, addressing missing data, etc. For business licenses, unnecessary columns were deleted to achieve the desired outcome.  
 **Figure 7**
+
+<img width="1007" alt="Screenshot 2024-12-04 at 1 12 39 AM" src="https://github.com/user-attachments/assets/6952c9bc-e23d-4536-8d7b-c2437231db7e">
 
 ---
 
@@ -89,9 +95,19 @@ In draw.io, the ETL trial structure comprises the following stages: Extract, Tra
 - **Output:** Discovered the count of employees through the expiration date.  
 - **Result:** 339  
 
+<img width="1017" alt="Screenshot 2024-12-04 at 1 12 46 AM" src="https://github.com/user-attachments/assets/d7e2483b-1ae8-48d3-a566-fb58561eee4f">
+
 **Figure 9:** Neha Pipeline Design  
+
+<img width="847" alt="Screenshot 2024-12-04 at 1 12 54 AM" src="https://github.com/user-attachments/assets/4c240166-0d97-4bed-8c33-c73f5513a80d">
+
 **Figure 10**  
-**Figure 11:** Aggregation and Data Preview in ETL Pipeline  
+
+<img width="877" alt="Screenshot 2024-12-04 at 1 13 01 AM" src="https://github.com/user-attachments/assets/76a24aca-5f58-4c6c-9276-07d3e4a32e3b">
+
+**Figure 11:** Aggregation and Data Preview in ETL Pipeline 
+
+<img width="1023" alt="Screenshot 2024-12-04 at 1 13 11 AM" src="https://github.com/user-attachments/assets/c6397a9e-cccf-44bf-ae00-655522aff8e6">
 
 ---
 
