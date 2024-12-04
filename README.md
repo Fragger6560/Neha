@@ -54,7 +54,6 @@ Graphical visualizations were created to:
 - **Average Number of Employees**: ~5.47 employees/license.
 
 ### ETL Pipeline
-![ETL Pipeline](./images/etl_pipeline.png)
 
 ---
 
