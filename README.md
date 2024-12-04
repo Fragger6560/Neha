@@ -1,8 +1,6 @@
 ## Hi! I'm Neha Verma  
 **Business Analyst and MBA Student at UCW**
 
-![WhatsApp Image 2024-12-04 at 10 18 43](https://github.com/user-attachments/assets/138d3215-c300-452d-a577-41be45016af8)
-
 # AWS Data Analytic Platform for The City of Vancouver
 
 ## Overview
