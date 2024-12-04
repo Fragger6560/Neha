@@ -123,6 +123,8 @@ The possibilities of the DAP platform in the development and functioning of soci
 Report files were obtained from Open Data Vancouver and downloaded as Excel or CSV files: business licenses within the city that form a basis for further analysis in AWS.
 
 **Figure 2**
+<img width="1011" alt="Screenshot 2024-12-04 at 1 13 22 AM" src="https://github.com/user-attachments/assets/9994ee12-dba2-4190-a255-51cc8bf78fc9">
+
 
 This shows at least two key indicators presented next to each other:
 1. The Count of Licenses (represented in blue columns).  
@@ -138,6 +140,8 @@ Specifically, the Digital Application Platform (DAP) on AWS is the key for Vanco
 ---
 
 ### Data Analytic Platform Implementation
+
+<img width="1021" alt="Screenshot 2024-12-04 at 1 13 37 AM" src="https://github.com/user-attachments/assets/64373f27-3f5d-46dc-bf12-b573f51d3003">
 
 **Note:** Business requirement
 
@@ -159,6 +163,11 @@ In draw.io, the ETL trial structure comprises the following stages: Extract, Tra
 - **Output:** Found the average number of employees through expiration date.  
 - **Result:** 5.47  
 
-**Figure 9:** Neha Pipeline Design  
+**Figure 9:** Neha Pipeline Design 
+<img width="813" alt="Screenshot 2024-12-04 at 1 13 56 AM" src="https://github.com/user-attachments/assets/97ee65a2-5479-4cf8-bfff-31bf22374aa9">
+
 **Figure 10**  
+<img width="834" alt="Screenshot 2024-12-04 at 1 14 01 AM" src="https://github.com/user-attachments/assets/a30f3b63-9b59-4fad-a343-948eae88e18f">
+
 **Figure 11**  
+<img width="721" alt="Screenshot 2024-12-04 at 1 14 09 AM" src="https://github.com/user-attachments/assets/41c910ff-b37e-4005-b393-b6d8eb70deb3">
